@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/css/main.a9f1351b.css",
+    "main.css": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/css/main.023af56a.css",
     "main.js": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/js/main.135dd420.js",
     "index.html": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/index.html",
-    "main.a9f1351b.css.map": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/css/main.a9f1351b.css.map",
+    "main.023af56a.css.map": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/css/main.023af56a.css.map",
     "main.135dd420.js.map": "/SanthoshKumar-SanthoshKumar/reusable_Banner_App/static/js/main.135dd420.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f1351b.css",
+    "static/css/main.023af56a.css",
     "static/js/main.135dd420.js"
   ]
 }
